@@ -47,7 +47,6 @@ I first made the USB-C stuff with the crystal which was pretty fast and easy sin
 
 
 
-![image](https://stasis.hackclub-assets.com/images/1781795280971-pw4mpd.png)
 ![image](https://stasis.hackclub-assets.com/images/1781795348059-qpmwdc.png)
 
 # 6/13/2026 7 PM - Research
