@@ -22,3 +22,6 @@ This prompted me to think about _physical_ equalizers where you can move physica
 
 ## 3d model:
 <img width="709" height="697" alt="Screenshot 2026-06-18 at 9 55 54 PM" src="https://github.com/user-attachments/assets/207c4ffd-efdc-4e44-883c-dc31d1deab92" />
+
+## With Cad:
+<img width="759" height="821" alt="Screenshot 2026-06-20 at 2 28 49 PM" src="https://github.com/user-attachments/assets/aa929c47-1bb5-449f-9791-ec7d1ce92731" />
